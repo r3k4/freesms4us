@@ -1,6 +1,6 @@
 <?php
 
-namespace App\MyPackages\FreeSms4Us;
+namespace r3k4\FreeSms4Us;
 
 
 use Illuminate\Support\ServiceProvider;
