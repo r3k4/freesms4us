@@ -1,0 +1,21 @@
+{
+    "name": "r3k4/freesms4us",
+    "description": "Laravel 5  | freesms4us package",
+    "license": "MIT",
+    "keywords" : ["laravel" , "freesms4us"],
+    "authors": [
+        {
+            "name": "Reka Prihatanto",
+            "email": "rey.barrolz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+        },
+    "autoload": {
+        "psr-4": {
+            "R3k4\\FreeSms4Us\\": "src/"
+        }
+    }
+}
