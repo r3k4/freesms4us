@@ -1,6 +1,6 @@
 <?php 
 
-namespace R3k4\Freesms4us;
+namespace R3k4\FreeSms4Us;
 
 use Illuminate\Support\Facades\Facade;
 

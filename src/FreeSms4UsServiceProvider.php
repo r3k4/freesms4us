@@ -1,6 +1,6 @@
 <?php
 
-namespace r3k4\FreeSms4Us;
+namespace R3k4\FreeSms4Us;
 
 
 use Illuminate\Support\ServiceProvider;
@@ -26,7 +26,7 @@ class FreeSms4UsServiceProvider extends ServiceProvider
     {
 
         // merge config
-        $configFile = config_path('InstagramConfig.php');
+        $configFile = config_path('FreeSms4UsConfig.php');
         if(file_exists($configFile))
         {
             $this->mergeConfigFrom($configFile , 'config');
