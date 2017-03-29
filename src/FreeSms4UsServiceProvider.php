@@ -4,6 +4,7 @@ namespace R3k4\FreeSms4Us;
 
 
 use Illuminate\Support\ServiceProvider;
+use R3k4\FreeSms4Us\FreeSms4Us;
 
 class FreeSms4UsServiceProvider extends ServiceProvider
 {
