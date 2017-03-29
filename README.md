@@ -8,7 +8,7 @@ package untuk kirim sms menggunakan api dari freesms4us.com
 Download package dengan composer
 
 
- `composer require r3k4/freesms4us`
+ `composer require r3k4/freesms4us "dev-master"`
 
 atau
 
