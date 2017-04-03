@@ -8,7 +8,7 @@ class FreeSms4UsFacade extends Facade
 {
 	public static function getFacadeAccessor()
 	{
-		return 'freesms4us';
+		return 'FreeSms4Us';
 	}
 
 }

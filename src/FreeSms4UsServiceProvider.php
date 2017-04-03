@@ -37,7 +37,7 @@ class FreeSms4UsServiceProvider extends ServiceProvider
 
 
         //
-        $this->app->bind('freesms4us' , function(){
+        $this->app->bind('FreeSms4Us' , function(){
             return new FreeSms4Us;
         });
 
